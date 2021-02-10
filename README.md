@@ -1,6 +1,7 @@
 # JUnit-Exam
 
---- application.yml
+### application.yml
+mysql 
 ```
 server:
   servlet:
