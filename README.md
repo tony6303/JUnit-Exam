@@ -1,7 +1,7 @@
 # JUnit-Exam
+요구사항의 id는 int였지만 프로젝트에서는 Long을 사용하고 있습니다.
 
 ### application.yml
-mysql 
 ```
 server:
   servlet:
